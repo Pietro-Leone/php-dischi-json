@@ -1,0 +1,62 @@
+[
+  {
+    "nome_album": "Back in Black",
+    "nome_artista": "AC/DC",
+    "anno_uscita": 1980,
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/b/be/Acdc_backinblack_cover.jpg"
+  },
+  {
+    "nome_album": "The Dark Side of the Moon",
+    "nome_artista": "Pink Floyd",
+    "anno_uscita": 1973,
+    "immagine": "https://legendarycover.it/wp-content/uploads/2019/06/thedarksideofthemoon-e1559419433695.jpg"
+  },
+  {
+    "nome_album": "Led Zeppelin IV",
+    "nome_artista": "Led Zeppelin",
+    "anno_uscita": 1971,
+    "immagine": "https://legendarycover.it/wp-content/uploads/2017/07/led-zeppelin-iv-zoso-copertina-e1569317222457.jpg"
+  },
+  {
+    "nome_album": "Hotel California",
+    "nome_artista": "Eagles",
+    "anno_uscita": 1976,
+    "immagine": "https://legendarycover.it/wp-content/uploads/2019/12/hotelcalifornia-eagles-copertina.jpg"
+  },
+  {
+    "nome_album": "Rumours",
+    "nome_artista": "Fleetwood Mac",
+    "anno_uscita": 1977,
+    "immagine": "https://www.hifinews.com/images/1021undercov.promo_.jpg"
+  },
+  {
+    "nome_album": "Nevermind",
+    "nome_artista": "Nirvana",
+    "anno_uscita": 1991,
+    "immagine": "https://www.rollingstone.it/wp-content/uploads/2021/04/71DQrKpImPL._AC_SL1400_.jpg"
+  },
+  {
+    "nome_album": "The Wall",
+    "nome_artista": "Pink Floyd",
+    "anno_uscita": 1979,
+    "immagine": "https://www.virginradio.it/upload/the_wall-1635501270455.jpgg"
+  },
+  {
+    "nome_album": "Born to Run",
+    "nome_artista": "Bruce Springsteen",
+    "anno_uscita": 1975,
+    "immagine": "https://m.media-amazon.com/images/I/615kcNWUCAS._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "nome_album": "Abbey Road",
+    "nome_artista": "The Beatles",
+    "anno_uscita": 1969,
+    "immagine": "https://legendarycover.it/wp-content/uploads/2020/04/abbey_road_beatles.jpg"
+  },
+  {
+    "nome_album": "Appetite for Destruction",
+    "nome_artista": "Guns N' Roses",
+    "anno_uscita": 1987,
+    "immagine": "https://legendarycover.it/wp-content/uploads/2017/02/appetite-for-destruction-1-400x400.jpg"
+  }
+]
