@@ -39,7 +39,7 @@
         <div class="col mb-3 flex-grow-0" v-for="post in posts">
           <div class="card" style="width: 18rem;">
             <div class="p-4">
-              <img :src="post.immagine" class="card-img-top" alt="...">
+              <img :src="post.immagine" class="card-img-top h-100" style="min-height: 238.4px;" alt="...">
             </div>
             <div class="card-body">
               <h5 class="card-title">{{ post.nome_album }}</h5>
