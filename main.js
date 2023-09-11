@@ -1,18 +1,14 @@
-const { createApp } = Vue
+"use script"
 
-const app = createApp({
+Vue.createApp({
   data() {
     return {
-      posts:[]
+      posts: []
     }
   },
   mounted() {
     axios.get("api/posts.php").then((response) => {
-
       this.posts = response.data;
-
-      console.log(response);
-
     })
   }
-}).mount('#app')
+}).mount("#app");
