@@ -35,16 +35,16 @@
     </nav>
     <!-- Container -->
     <div class="container h-100" style="background-color: #1d2d3c;">
-      <div class="row pt-3">
-        <div class="col">
+      <div class="row justify-content-center pt-3">
+        <div class="col mb-3 flex-grow-0" v-for="post in posts">
           <div class="card" style="width: 18rem;">
             <div class="p-4">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Acdc_backinblack_cover.jpg" class="card-img-top" alt="...">
+              <img :src="post.immagine" class="card-img-top" alt="...">
             </div>
             <div class="card-body">
-              <h5 class="card-title">Back in Black</h5>
-              <h6 class="card-title">AC/DC</h6>
-              <h6 class="card-title">1977</h6>
+              <h5 class="card-title">{{ post.nome_album }}</h5>
+              <h6 class="card-title">{{ post.nome_artista }}</h6>
+              <h6 class="card-title">{{ post.anno_uscita }}</h6>
             </div>
           </div>
         </div>
